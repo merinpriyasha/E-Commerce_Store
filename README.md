@@ -120,3 +120,18 @@ npm run dev
 | POST	 | /coupon/validate	  | Validate coupon code                        |
 
 ## 🖼 Screenshots
+
+<img width="1756" height="863" alt="signup" src="https://github.com/user-attachments/assets/7d5cc8ae-7b3d-41d0-b1e4-5db777ff554c" />
+
+<img width="1732" height="865" alt="home" src="https://github.com/user-attachments/assets/94d2e9eb-8ec7-4ee6-98db-23c0b8f8ddf0" />
+
+<img width="1796" height="857" alt="admin-dashboard" src="https://github.com/user-attachments/assets/aa0d3e70-ecc4-45ed-b7db-0e3ed177aeb7" />
+
+<img width="1728" height="852" alt="add product page" src="https://github.com/user-attachments/assets/8d14ef41-55ca-4b77-a5b4-a33e2ced5369" />
+
+<img width="1726" height="748" alt="product-list page" src="https://github.com/user-attachments/assets/e7045a7f-82f0-493e-87a2-d36fe326f52c" />
+
+<img width="1792" height="815" alt="payment page" src="https://github.com/user-attachments/assets/4e8f0294-4b00-45c8-bd84-5442caef5094" />
+
+<img width="1401" height="837" alt="online payment" src="https://github.com/user-attachments/assets/258f2579-ed0e-43f6-b2e9-2e4604e0e0f7" />
+
